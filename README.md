@@ -1,5 +1,5 @@
 # SYNOPSIS
-A simple streaming API for foursquare's APIs
+A simple streaming abstraction for foursquare's REST APIs
 
 # DESCRIPTION
 If you for some reason want to collect the garbage that is foursquare's 
