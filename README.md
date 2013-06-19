@@ -23,13 +23,13 @@ foursquare.getVenues(opts).pipe(...) // pipe that stream, dog!
 ```
 
 
-## Installation
+# INSTALL
 
 ```js
-$ npm install -g level-server
+$ npm install foursquare-streams
 ```
 
-## License
+# LICENSE
 
 (MIT)
 
