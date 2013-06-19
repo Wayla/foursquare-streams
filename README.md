@@ -19,5 +19,5 @@ var opts = {
   'limit': 50,
 }
 
-foursquare.getVenues().pipe(...) // pipe that stream, dog!
+foursquare.getVenues(opts).pipe(...) // pipe that stream, dog!
 ```
